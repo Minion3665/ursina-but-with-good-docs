@@ -7,9 +7,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx-Themes template'
-copyright = '2018, sphinx-themes.org'
-author = 'sphinx-themes.org'
+project = 'Ursina Game Engine'
+copyright = '2020 Petter Amland'
+author = 'Petter Amland'
 
 # The short X.Y version
 version = ''
